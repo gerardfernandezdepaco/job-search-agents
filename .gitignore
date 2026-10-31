@@ -1,0 +1,10 @@
+# Personal data: keep local, never commit
+profile/profile.md
+profile/*.pdf
+applications/*
+!applications/.gitkeep
+jobs/*.md
+companies/
+tracker/*.xlsx
+tracker/*.csv
+!tracker/tracker_template.csv
