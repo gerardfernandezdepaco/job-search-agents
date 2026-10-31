@@ -83,6 +83,10 @@ Personal folders are listed in `.gitignore`, so your data stays on your computer
 
 Market analyst and daily email digest, then the orchestrator. Automatic submission is deliberately out of scope for now.
 
+## Built with Claude
+
+Built with Claude as a coding assistant; I designed the pipeline and reviewed every change.
+
 ## License
 
 [MIT](LICENSE)
